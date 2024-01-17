@@ -43,4 +43,3 @@ jobs:
           personal_token: ${{ secrets.GH_ACCESS_TOKEN }}
           external_repository: kwokronny/maz-ui
           publish_dir: packages/docs/docs/.vitepress/dist
-          publish_branch: docs
