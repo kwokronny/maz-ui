@@ -18,7 +18,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
 
-  base: '/',
+  base: '/maz-ui/',
 
   sitemap: {
     hostname: 'https://maz-ui.com/',
